@@ -7,3 +7,9 @@ class Person
     puts("The Person is walking")
   end
 end
+
+moti = Person.new
+
+moti
+
+moti.walk
